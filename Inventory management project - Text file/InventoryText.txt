@@ -1,0 +1,7 @@
+1,Milk,20,0
+2,Chocolate,10,0
+3,Biscuit,50,90
+4,Cream,300,0
+5,Dryfruits,500,0
+6,Soap,50,200
+7,Toothpaste,20,300
